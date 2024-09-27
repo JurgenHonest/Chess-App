@@ -1,6 +1,6 @@
 # Chess-App
 
-<a target="_blank" href="https://sumit-chessapp.netlify.app/" target="_blank">Click here</a>
+<a target="_blank" href="https://sumit-chessapp.netlify.app/" target="_blank">Chess App</a>
 ### The HTML creates the chessboard with 8x8 squares using div elements, each assigned a unique ID based on coordinates. 
 1. Global Styles:
 Reset margin and padding for all elements and set box-sizing to border-box.
